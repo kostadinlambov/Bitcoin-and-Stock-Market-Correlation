@@ -11,3 +11,7 @@ m
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+Q
+!.virtual_documents/notebook.ipynb,8\6\8647e087353406d92962b79e4e829aaa1469431e
+V
+&.virtual_documents/download_data.ipynb,d\4\d4a97d33ee74acdfc9f2abd3a72a94869130932c
